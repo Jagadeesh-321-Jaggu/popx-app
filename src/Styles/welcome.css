@@ -1,0 +1,47 @@
+.welcome-content {
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    bottom: 40px;
+}
+
+.welcome-content h1 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #1D2226;
+    margin-bottom: 10px;
+}
+
+.welcome-content p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #919191;
+    margin-bottom: 30px;
+}
+
+.create-btn {
+    width: 100%;
+    height: 46px;
+    background: #6C25FF;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.already-btn {
+    width: 100%;
+    height: 46px;
+    background: #CEBAFB;
+    color: #1D2226;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+button {
+    cursor: pointer;
+}
